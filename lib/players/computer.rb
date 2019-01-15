@@ -3,8 +3,10 @@ module Players
     def move(board)
       move = nil
 
-if board.taken?(5)
-  move = “9”
+    #  if board.taken?(5)
+     #   move = “9”
+     
+     
 #Players::Computer
 # def move (board) is the method that 
 #returns the move the computer wants to make
