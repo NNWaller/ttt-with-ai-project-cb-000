@@ -6,7 +6,10 @@ module Players
     #  if board.taken?(5)
      #   move = “9”
      
+     # elseif move = “5”
      
+     #
+
 #Players::Computer
 # def move (board) is the method that 
 #returns the move the computer wants to make
