@@ -13,6 +13,8 @@ module Players
     #    ?(i)}.to_s
 
      # elsif board.turn_count == 3 && 
+     #   [1,3,7,9].select{|i| board.taken?} == [1,9]    || [3,7]
+     #   move = “8”
 
 #Players::Computer
 # def move (board) is the method that 
