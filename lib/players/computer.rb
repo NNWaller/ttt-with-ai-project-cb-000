@@ -8,8 +8,11 @@ module Players
      
      # elseif move = “5”
      
-     #elsif board.turn_count == 2
+     # elsif board.turn_count == 2
+    #    move = [1, 3, 7, 9].detect{|i| !board.taken 
+    #    ?(i)}.to_s
 
+     #
 
 #Players::Computer
 # def move (board) is the method that 
