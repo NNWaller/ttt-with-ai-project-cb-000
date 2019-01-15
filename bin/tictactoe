@@ -1,3 +1,9 @@
 #!/usr/bin/env ruby
 
 require_relative '../config/environment'
+
+#Puts "Welcome to Tic Tac Toe! How many players will there be? 0 - Computer Only, 1 Player, or 2 Players? Please enter 0-2."
+
+#number_of_players = gets.strip
+
+#
