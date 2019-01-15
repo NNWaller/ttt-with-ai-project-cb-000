@@ -12,7 +12,7 @@ module Players
     #    move = [1, 3, 7, 9].detect{|i| !board.taken 
     #    ?(i)}.to_s
 
-     #
+     # elsif board.turn_count == 3 && 
 
 #Players::Computer
 # def move (board) is the method that 
