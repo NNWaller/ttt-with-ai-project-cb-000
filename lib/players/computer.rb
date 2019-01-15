@@ -1,3 +1,7 @@
+module Players
+  class Computer < Player
+    def move(board)
+      move = nil
 #Players::Computer
 # def move (board) is the method that 
 #returns the move the computer wants to make
@@ -13,3 +17,4 @@
 #a winning combination, then attempt to block by  
 #filling in the missing cell. Otherwise make a third 
 #move to complete a win for the computer.
+end
