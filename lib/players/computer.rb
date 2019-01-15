@@ -8,7 +8,8 @@ module Players
      
      # elseif move = “5”
      
-     #
+     #elsif board.turn_count == 2
+
 
 #Players::Computer
 # def move (board) is the method that 
